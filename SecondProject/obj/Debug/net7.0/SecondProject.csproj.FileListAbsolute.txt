@@ -1,0 +1,15 @@
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\bin\Debug\net7.0\SecondProject.exe
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\bin\Debug\net7.0\SecondProject.deps.json
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\bin\Debug\net7.0\SecondProject.runtimeconfig.json
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\bin\Debug\net7.0\SecondProject.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\bin\Debug\net7.0\SecondProject.pdb
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.AssemblyInfo.cs
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\refint\SecondProject.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.pdb
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\SecondProject.genruntimeconfig.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\SecondProject\obj\Debug\net7.0\ref\SecondProject.dll
