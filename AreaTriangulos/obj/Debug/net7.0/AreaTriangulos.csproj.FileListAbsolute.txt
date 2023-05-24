@@ -1,0 +1,15 @@
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\bin\Debug\net7.0\AreaTriangulos.exe
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\bin\Debug\net7.0\AreaTriangulos.deps.json
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\bin\Debug\net7.0\AreaTriangulos.runtimeconfig.json
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\bin\Debug\net7.0\AreaTriangulos.dll
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\bin\Debug\net7.0\AreaTriangulos.pdb
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.csproj.AssemblyReference.cache
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.AssemblyInfoInputs.cache
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.AssemblyInfo.cs
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.dll
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\refint\AreaTriangulos.dll
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.pdb
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\AreaTriangulos.genruntimeconfig.cache
+C:\Users\thais\Downloads\Visual Studio\AreaTriangulos\obj\Debug\net7.0\ref\AreaTriangulos.dll
