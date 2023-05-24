@@ -7,13 +7,14 @@ namespace ThirdProject
     {
         static double Pi = 3.14;
         static void Main(string[] args)
+
         {
             Console.Write("Entre o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double circ = Circunferencia(raio);
 
-            Console.WriteLine("Circunfência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Circunfêrencia: " + circ.ToString("F2", CultureInfo.InvariantCulture));
         }
 
         static double Circunferencia (double r)
