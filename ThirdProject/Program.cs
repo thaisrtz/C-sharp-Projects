@@ -6,8 +6,8 @@ namespace ThirdProject
     class Program
     {
         static double Pi = 3.14;
-        static void Main(string[] args)
 
+        static void Main(string[] args)
         {
             Console.Write("Entre o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
