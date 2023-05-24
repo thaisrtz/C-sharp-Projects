@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thais\\Downloads\\Visual Studio\\Circunferencia\\Circunferencia.csproj",
+      "projectUniqueName": "C:\\Users\\thais\\OneDrive\\Documentos\\GitHub\\C-sharp-Projects\\Circunferencia\\Circunferencia.csproj",
       "projectName": "Circunferencia",
-      "projectPath": "C:\\Users\\thais\\Downloads\\Visual Studio\\Circunferencia\\Circunferencia.csproj",
+      "projectPath": "C:\\Users\\thais\\OneDrive\\Documentos\\GitHub\\C-sharp-Projects\\Circunferencia\\Circunferencia.csproj",
       "packagesPath": "C:\\Users\\thais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thais\\Downloads\\Visual Studio\\Circunferencia\\obj\\",
+      "outputPath": "C:\\Users\\thais\\OneDrive\\Documentos\\GitHub\\C-sharp-Projects\\Circunferencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

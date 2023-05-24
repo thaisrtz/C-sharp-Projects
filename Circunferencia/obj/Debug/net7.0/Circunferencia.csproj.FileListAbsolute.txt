@@ -13,3 +13,18 @@ C:\Users\thais\Downloads\Visual Studio\Circunferencia\obj\Debug\net7.0\refint\Ci
 C:\Users\thais\Downloads\Visual Studio\Circunferencia\obj\Debug\net7.0\Circunferencia.pdb
 C:\Users\thais\Downloads\Visual Studio\Circunferencia\obj\Debug\net7.0\Circunferencia.genruntimeconfig.cache
 C:\Users\thais\Downloads\Visual Studio\Circunferencia\obj\Debug\net7.0\ref\Circunferencia.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\bin\Debug\net7.0\Circunferencia.exe
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\bin\Debug\net7.0\Circunferencia.deps.json
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\bin\Debug\net7.0\Circunferencia.runtimeconfig.json
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\bin\Debug\net7.0\Circunferencia.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\bin\Debug\net7.0\Circunferencia.pdb
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.AssemblyInfo.cs
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\refint\Circunferencia.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.pdb
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\Circunferencia.genruntimeconfig.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Circunferencia\obj\Debug\net7.0\ref\Circunferencia.dll
