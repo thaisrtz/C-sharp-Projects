@@ -13,3 +13,18 @@ C:\Users\thais\Downloads\Visual Studio\Estoque\obj\Debug\net7.0\refint\Estoque.d
 C:\Users\thais\Downloads\Visual Studio\Estoque\obj\Debug\net7.0\Estoque.pdb
 C:\Users\thais\Downloads\Visual Studio\Estoque\obj\Debug\net7.0\Estoque.genruntimeconfig.cache
 C:\Users\thais\Downloads\Visual Studio\Estoque\obj\Debug\net7.0\ref\Estoque.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\bin\Debug\net7.0\Estoque.exe
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\bin\Debug\net7.0\Estoque.deps.json
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\bin\Debug\net7.0\Estoque.runtimeconfig.json
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\bin\Debug\net7.0\Estoque.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\bin\Debug\net7.0\Estoque.pdb
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.AssemblyInfo.cs
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\refint\Estoque.dll
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.pdb
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\Estoque.genruntimeconfig.cache
+C:\Users\thais\OneDrive\Documentos\GitHub\C-sharp-Projects\Estoque\obj\Debug\net7.0\ref\Estoque.dll
