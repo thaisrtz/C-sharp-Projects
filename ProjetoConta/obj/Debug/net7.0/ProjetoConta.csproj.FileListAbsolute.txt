@@ -1,0 +1,15 @@
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\bin\Debug\net7.0\ProjetoConta.exe
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\bin\Debug\net7.0\ProjetoConta.deps.json
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\bin\Debug\net7.0\ProjetoConta.runtimeconfig.json
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\bin\Debug\net7.0\ProjetoConta.dll
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\bin\Debug\net7.0\ProjetoConta.pdb
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.csproj.AssemblyReference.cache
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.AssemblyInfoInputs.cache
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.AssemblyInfo.cs
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.csproj.CoreCompileInputs.cache
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.dll
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\refint\ProjetoConta.dll
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.pdb
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ProjetoConta.genruntimeconfig.cache
+C:\Users\thais\Downloads\Visual Studio\ProjetoConta\obj\Debug\net7.0\ref\ProjetoConta.dll
