@@ -15,28 +15,27 @@ namespace SecondProject
             _preco = preco;
             _quantidade = quantidade;
         }
-        
-        public string GetNome()
-        {
-            return _nome;
-        }
 
-        public void SetNome(string nome) 
+        //properties
+        public string Nome
         {
-            if (nome != null &&  nome.Length > 0)
-            {
-                _nome = nome;
+            get { return _nome; }
+            set {
+                if (value != null && value.Length > 0)
+                {
+                    _nome = value;
+                }
             }
         }
 
-        public double GetPreco()
+        public double Preco
         {
-            return _preco;
+            get { return _preco; }
         }
 
-        public int GetQuantidade()
+        public int Quantidade
         {
-            return _quantidade;
+            get { return _quantidade; }
         }
 
         public double ValorTotalEmEstoque()

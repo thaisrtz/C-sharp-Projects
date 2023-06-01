@@ -7,6 +7,15 @@ namespace SecondProject
     {
         static void Main(string[] args)
         {
+            Produto p = new Produto("TV", 500.00, 10);
+
+            p.Nome = "TV 4K";
+
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
+            Console.WriteLine(p.Quantidade);
+
+            /*
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
@@ -31,7 +40,8 @@ namespace SecondProject
             Console.WriteLine("Digite o número de produtos a ser removidos do estoque: ");
             qte = int.Parse(Console.ReadLine());
             p.RemoverProdutos(qte);
-            Console.WriteLine("Dados atualizados: " + p);
+            Console.WriteLine("Dados atualizados: " + p); */
+
         }
     }
 }
