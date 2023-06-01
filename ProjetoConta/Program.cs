@@ -28,7 +28,7 @@ namespace ContaBancaria
 
             Console.WriteLine();
             Console.Write("Entre um valor para depósito: ");
-            double valor = double.Parse(Console.ReadLine());
+            double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             account.Deposito(valor);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: ");
@@ -36,7 +36,7 @@ namespace ContaBancaria
 
             Console.WriteLine();
             Console.Write("Entre um valor para saque: ");
-            valor = double.Parse(Console.ReadLine(), "F2");
+            valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             account.Saque(valor);
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: ");

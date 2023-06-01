@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thais\\Downloads\\Visual Studio\\ProjetoConta\\ProjetoConta.csproj",
+      "projectUniqueName": "C:\\Users\\thais\\OneDrive\\Documentos\\GitHub\\C-sharp-Projects\\ProjetoConta\\ProjetoConta.csproj",
       "projectName": "ProjetoConta",
-      "projectPath": "C:\\Users\\thais\\Downloads\\Visual Studio\\ProjetoConta\\ProjetoConta.csproj",
+      "projectPath": "C:\\Users\\thais\\OneDrive\\Documentos\\GitHub\\C-sharp-Projects\\ProjetoConta\\ProjetoConta.csproj",
       "packagesPath": "C:\\Users\\thais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thais\\Downloads\\Visual Studio\\ProjetoConta\\obj\\",
+      "outputPath": "C:\\Users\\thais\\OneDrive\\Documentos\\GitHub\\C-sharp-Projects\\ProjetoConta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
