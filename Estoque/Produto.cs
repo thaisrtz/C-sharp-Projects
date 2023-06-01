@@ -16,7 +16,7 @@ namespace SecondProject
             Quantidade = quantidade;
         }
 
-        //properties
+        //property
         public string Nome
         {
             get { return _nome; }
